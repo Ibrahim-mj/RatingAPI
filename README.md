@@ -1,6 +1,6 @@
 # Menu Item Rating API
 
-This is a Django REST Framework API that allows authenticated users to rate a menu item and view the available ratings.
+This is a REST API that allows authenticated users to rate a menu item and view the available ratings.
 
 ## Requirements
 Check the requirements.txt file for the required dependencies.
